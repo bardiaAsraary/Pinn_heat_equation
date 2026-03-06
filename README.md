@@ -189,25 +189,25 @@ These are visualized as **contour plots over the space–time domain**.
 # Analytical Solution
 
 
-```
-![Analytical Solution](/Users/bardia/Desktop/pinn-heat-equation/notebooks/results/analytical_solution.png)
-```
+
+![Analytical Solution](results/analytical_solution.png)
+
 
 ---
 
 # PINN Predicted Solution
 
-```
-![PINN Prediction](/Users/bardia/Desktop/pinn-heat-equation/notebooks/results/pinn_solution.png)
-```
+
+![PINN Prediction](results/pinn_solution.png)
+
 
 ---
 
 # Error Distribution
 
-```
-![Prediction Error](/Users/bardia/Desktop/pinn-heat-equation/notebooks/results/error_heatmap.png)
-```
+
+![Prediction Error](results/error_heatmap.png)
+
 
 ---
 
@@ -270,7 +270,7 @@ results/pinn_solution.png
 Open the notebook:
 
 ```
-notebooks/heat_equation.ipynb
+notebooks/experiment.ipynb
 ```
 
 The notebook allows you to:

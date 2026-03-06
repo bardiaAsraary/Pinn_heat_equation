@@ -1,6 +1,7 @@
 venv/
 __pycache__/
 *.pyc
-.ipynb_checkpoints
 results/
 pinn_model.pt
+*.pt
+.ipynb_checkpoints/

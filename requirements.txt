@@ -46,9 +46,6 @@ PyAutoGUI==0.9.54
 pycparser==2.23
 PyGetWindow==0.0.9
 PyMsgBox==2.0.1
-pyobjc-core==12.1
-pyobjc-framework-Cocoa==12.1
-pyobjc-framework-Quartz==12.1
 pyparsing==3.3.2
 pyperclip==1.11.0
 PyRect==0.2.0
@@ -59,7 +56,6 @@ pytz==2025.2
 PyYAML==6.0.3
 regex==2026.1.15
 requests==2.32.5
-rubicon-objc==0.5.3
 safetensors==0.7.0
 scikit-learn==1.8.0
 scipy==1.17.0
@@ -79,3 +75,4 @@ tzdata==2025.3
 urllib3==2.6.3
 xxhash==3.6.0
 yarl==1.22.0
+jupyter

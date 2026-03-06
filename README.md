@@ -188,30 +188,25 @@ These are visualized as **contour plots over the space–time domain**.
 
 # Analytical Solution
 
-⚠️ Replace the image below with the **analytical solution plot generated in the notebook**
 
 ```
-![Analytical Solution](results/analytical_solution.png)
+![Analytical Solution](/Users/bardia/Desktop/pinn-heat-equation/notebooks/results/analytical_solution.png)
 ```
 
 ---
 
 # PINN Predicted Solution
 
-⚠️ Replace the image below with the **PINN solution generated during training**
-
 ```
-![PINN Prediction](results/pinn_solution.png)
+![PINN Prediction](/Users/bardia/Desktop/pinn-heat-equation/notebooks/results/pinn_solution.png)
 ```
 
 ---
 
 # Error Distribution
 
-⚠️ Replace the image below with the **error heatmap between analytical and predicted solution**
-
 ```
-![Prediction Error](results/error_heatmap.png)
+![Prediction Error](/Users/bardia/Desktop/pinn-heat-equation/notebooks/results/error_heatmap.png)
 ```
 
 ---
@@ -307,11 +302,3 @@ Raissi, M., Perdikaris, P., Karniadakis, G. (2019)
 **Physics-Informed Neural Networks: A Deep Learning Framework for Solving Forward and Inverse Problems Involving Nonlinear Partial Differential Equations**
 
 https://arxiv.org/abs/1711.10561
-
----
-
-# Author
-
-Physics / AI Research Project
-
-Physics-Informed Neural Networks exploration for solving PDEs using deep learning.

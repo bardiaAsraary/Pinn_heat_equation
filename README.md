@@ -57,11 +57,9 @@ pinn-heat-equation/
 ├── pinn_model.pt            # Trained PINN model
 │
 ├── src/
-│   ├── train.py             # Training script for the PINN
-│   └── model.py             # Neural network architecture
-│
+│   ├── train.py             # Training script for the PINN│
 ├── notebooks/
-│   └── heat_equation.ipynb  # Evaluation & visualization notebook
+│   └── experiment.ipynb     # Evaluation & visualization notebook
 │
 ├── results/                 # Generated plots
 │
